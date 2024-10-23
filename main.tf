@@ -24,7 +24,7 @@ resource "aws_instance" "ubuntu" {
 
   tags = {
     Name = var.instance_name
-    Geppo = "topolino"
+    Geppo = "minni"
     Gino = "nino"
   }
 }
